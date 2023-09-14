@@ -116,7 +116,7 @@
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <ueab:SortColumnX ColumnName="{x:Null}" DisplayName="Sort By Column" sap:VirtualizedContainerService.HintSize="382,64" sap2010:WorkflowViewState.IdRef="SortColumnX_1" SortDirection="Ascending" />
+                            <ueab:SortColumnX ColumnName="Location" DisplayName="Sort By Column" sap:VirtualizedContainerService.HintSize="382,64" sap2010:WorkflowViewState.IdRef="SortColumnX_1" SortDirection="Ascending" />
                           </Sequence>
                         </ActivityAction>
                       </ueab:SortX.Body>
